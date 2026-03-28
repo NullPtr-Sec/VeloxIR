@@ -1,6 +1,6 @@
 ## VeloxIR v1.0.0 - Core DFIR Engine
 
-This is the initial public release of VeloxIR, a Streamlit-based Digital Forensics and Incident Response (DFIR) orchestration framework. A Python-based DFIR orchestration framework
+This is the initial public release of VeloxIR, a Streamlit-based Digital Forensics and Incident Response (DFIR) orchestration framework. Python-based
 
 ### 🚀 Core Capabilities
 * **Automated EVTX Triage:** Integrated Chainsaw execution for local and remote Windows Event Logs against SigmaHQ rules.
