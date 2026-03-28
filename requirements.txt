@@ -1,7 +1,17 @@
+# UI & Data Processing
 streamlit>=1.20.0
 pandas>=1.5.0
 altair>=4.2.2
+
+# Reporting
 graphviz>=0.20.1
 fpdf>=1.7.2
+
+# File Forensics (YARA)
 yara-python>=4.3.0
 cryptography>=41.0.0
+
+# Memory Forensics (Volatility 3 & Dependencies for malfind)
+volatility3>=2.5.0
+pefile>=2023.2.7
+capstone>=5.0.0
