@@ -16,4 +16,7 @@ This is the initial public release of VeloxIR, a Streamlit-based Digital Forensi
 
 ### ⚠️ Installation Note
 **Do not** look for external binaries attached to this release asset list. 
-Download the `Source code (zip)`, extract it to your forensic workstation, and execute `start.bat` as Administrator. The script will automatically resolve dependencies and build the required DFIR environment.
+Download the `Source code (zip)`, extract it to your forensic workstation, and execute `setup.ps1` as Administrator. The script will automatically resolve dependencies and build the required DFIR environment.
+
+DFIR start localhost:
+After setup via setup.ps1, start the run.bat within the directory.
