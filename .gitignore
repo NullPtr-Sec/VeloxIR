@@ -1,0 +1,30 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# VeloxIR specific ignores (Binaries and External Rules)
+chainsaw/
+data/logs/*
+data/memory/*
+data/rules/*
+temp/
+
+# Keep directory structure for data folders (optional, if you use .gitkeep)
+!data/logs/.gitkeep
+!data/memory/.gitkeep
+!data/rules/.gitkeep
+
+# Environment Variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
